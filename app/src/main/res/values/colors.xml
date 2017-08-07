@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="inning_color">#000000</color>
+    <color name="team_color">#999999</color>
+</resources>

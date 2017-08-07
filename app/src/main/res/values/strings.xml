@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BaseBall Scores Counter</string>
+    <string name="inning_number">1st Inning</string>
+    <string name="reset">Reset</string>
+    <string name="team_a">Team A</string>
+    <string name="battling">Battling</string>
+    <string name="one">1</string>
+    <string name="out">0/3 outs</string>
+    <string name="plus_out">+1 out</string>
+    <string name="first_base">First Base Run</string>
+    <string name="second_base">Second Base Run</string>
+    <string name="third_base">Third Base Run</string>
+    <string name="home_run">Home Run</string>
+    <string name="base_run">1 First Base Run</string>
+    <string name="team_b">Team B</string>
+    <string name="defense">Defense</string>
+    <string name="reset_run">Reset Run</string>
+</resources>
